@@ -12,6 +12,6 @@
 
 5. Y la opinión de la mayoría delos expertos es... 
 
-** I found that picking up a problem and solving it in a new language is the best way to learn. 
+"*I found that picking up a problem and solving it in a new language is the best way to learn. 
 I don't believe in reading - it wastes a huge amount of time, and you can easily end up reading for too long.
-My advice is to find a problem and set off to solve it with Python. You will learn alot in the process.**
+My advice is to find a problem and set off to solve it with Python. You will learn alot in the process.*"
