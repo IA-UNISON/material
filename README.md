@@ -15,3 +15,9 @@
 "*I found that picking up a problem and solving it in a new language is the best way to learn. 
 I don't believe in reading - it wastes a huge amount of time, and you can easily end up reading for too long.
 My advice is to find a problem and set off to solve it with Python. You will learn alot in the process.*"
+
+
+## Introducción a la IA
+
+1. [Presentación inicial del curso de IA de Standford (2015)](http://web.stanford.edu/class/cs221/lectures/overview.pdf)
+2. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
