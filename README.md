@@ -21,3 +21,13 @@ My advice is to find a problem and set off to solve it with Python. You will lea
 
 1. [Presentación inicial del curso de IA de Standford (2015)](http://web.stanford.edu/class/cs221/lectures/overview.pdf)
 2. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+
+## Agentes inteligentes
+
+1. [Presentación de Stuart Russell sobre agentes inteligentes (viejita pero buena)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
+
+## Búsquedas locales
+
+1. [Un blog con un ejemplo de temple simulado](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
+2. [Artículo con la convergencia del algoritmo de temple simulado](http://www.mit.edu/~dbertsim/papers/Optimization/Simulated%20annealing.pdf)
+3. [Una presentación generica de búsquedas locales](http://www.autonlab.org/tutorials/hillclimb02.pdf)
