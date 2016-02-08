@@ -31,3 +31,4 @@ My advice is to find a problem and set off to solve it with Python. You will lea
 1. [Un blog con un ejemplo de temple simulado](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
 2. [Artículo con la convergencia del algoritmo de temple simulado](http://www.mit.edu/~dbertsim/papers/Optimization/Simulated%20annealing.pdf)
 3. [Una presentación generica de búsquedas locales](http://www.autonlab.org/tutorials/hillclimb02.pdf)
+4. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
