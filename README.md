@@ -1,5 +1,3 @@
-# Ligas a material interesante para apoyar el curso de IA
-
 ## Python
 
 1. [Distribución anaconda](https://www.continuum.io/downloads)
