@@ -17,8 +17,9 @@
 
 ## Introducción a la IA
 
-1. [Presentación inicial del curso de IA de Standford (2015)](http://web.stanford.edu/class/cs221/lectures/overview.pdf)
-2. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+1. [Video introductorio a la IA (UC Berkeley)](https://youtu.be/W1S-HSakPTM?t=23m23s)
+2. [Presentación inicial del curso de IA de Standford (2015)](http://web.stanford.edu/class/cs221/lectures/overview.pdf)
+3. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 
 ## Agentes inteligentes
 
