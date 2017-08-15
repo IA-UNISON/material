@@ -19,7 +19,6 @@
 
 1. [Presentación del curso](presentaciones/Intro_IA.pdf)
 1. [Video introductorio a la IA (UC Berkeley)](https://youtu.be/W1S-HSakPTM?t=23m23s)
-2. [Presentación inicial del curso de IA de Standford (2015)](http://web.stanford.edu/class/cs221/lectures/overview.pdf)
 3. [El artículo original de Turing](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 
 ## Agentes inteligentes
@@ -30,5 +29,4 @@
 
 1. [Un blog con un ejemplo de temple simulado](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
 2. [Artículo con la convergencia del algoritmo de temple simulado](http://www.mit.edu/~dbertsim/papers/Optimization/Simulated%20annealing.pdf)
-3. [Una presentación generica de búsquedas locales](http://www.autonlab.org/tutorials/hillclimb02.pdf)
-4. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
+3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
