@@ -24,6 +24,7 @@
 ## Agentes inteligentes
 
 1. [Presentación de Stuart Russell sobre agentes inteligentes (viejita pero buena)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
+2. [Subconjunto de la presentacion de Russell para ser usada en clase](presentaciones/Agentes_inteligentes.pdf)
 
 ## Búsquedas locales
 
