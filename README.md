@@ -32,3 +32,4 @@
 2. [Artículo con la convergencia del algoritmo de temple simulado](http://www.mit.edu/~dbertsim/papers/Optimization/Simulated%20annealing.pdf)
 3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
 4. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
+5. [El algoritmo AC-3 en Wikipedia (muy claro, muy bien)](https://en.wikipedia.org/wiki/AC-3_algorithm)
