@@ -33,3 +33,8 @@
 3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
 4. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
 5. [El algoritmo AC-3 en Wikipedia (muy claro, muy bien)](https://en.wikipedia.org/wiki/AC-3_algorithm)
+
+## Búsquedas en entornos discretos, dinámicos y determinísticos (o simplemente búsquedas)
+
+1. [Presentación de Gutiérrez Naranjo (U. de Sevilla) sobre modelos para búsquedas](presentaciones/modelos_busquedas.pdf)
+2. [Presentacion a base de recortes de otras presentaciones sobre búsquedas](presentaciones/busquedas.pdf)
