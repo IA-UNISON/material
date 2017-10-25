@@ -8,9 +8,9 @@
 
 4. [Libro de Python para programadores](http://www.diveintopython.net)
 
-5. Y la opinión de la mayoría de los expertos es... 
+5. Y la opinión de la mayoría de los expertos es...
 
-> I found that picking up a problem and solving it in a new language is the best way to learn. 
+> I found that picking up a problem and solving it in a new language is the best way to learn.
 > I don't believe in reading - it wastes a huge amount of time, and you can easily end up reading for too long.
 > My advice is to find a problem and set off to solve it with Python. You will learn alot in the process.
 
@@ -38,3 +38,8 @@
 
 1. [Presentación de Gutiérrez Naranjo (U. de Sevilla) sobre modelos para búsquedas](presentaciones/modelos_busquedas.pdf)
 2. [Presentacion a base de recortes de otras presentaciones sobre búsquedas](presentaciones/busquedas.pdf)
+
+## Representación del conocimiento
+
+1. [Presentación de P. Norvig sobre inferencia en redes bayesianas](presentaciones/Inferencia.pdf)
+2. [Notas del curso de ML de Standford sobre probabilidad](notas/proba.pdf)
