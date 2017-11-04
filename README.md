@@ -1,5 +1,3 @@
-<img src="ia.png" width="200" >
-
 ## Python
 
 1. [Distribución anaconda](https://www.continuum.io/downloads)
@@ -45,3 +43,7 @@
 
 1. [Presentación de P. Norvig sobre inferencia en redes bayesianas](presentaciones/Inferencia.pdf)
 2. [Notas del curso de ML de Standford sobre probabilidad](notas/proba.pdf)
+
+<img src="ia.png" width="200" >
+
+
