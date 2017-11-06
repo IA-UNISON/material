@@ -47,3 +47,7 @@
 <img src="ia.png" width="200" >
 
 
+## Aprendizaje máquina
+
+1. [Presentacion inicial de aprendizaje máquina](presentaciones/machine_learning.pdf)
+2. [Introducción a ML de Y. S. Abu-Mustafa (CALTECH)](presentaciones/ml_mustafa.pdf)
