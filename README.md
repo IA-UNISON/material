@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="ia.png" width="250"></div>
+
 ## Python
 
 1. [Distribución anaconda](https://www.continuum.io/downloads)
