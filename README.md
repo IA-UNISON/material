@@ -50,6 +50,7 @@
 
 1. [Presentacion inicial de aprendizaje máquina](presentaciones/machine_learning.pdf)
 2. [Introducción a ML de Y. S. Abu-Mustafa (CALTECH)](presentaciones/ml_mustafa.pdf)
+3. [¿Es posible que un programa aprenda?](presentaciones/aprendizaje_mustafa.pdf)
+4. [Errores para aprendizaje supervisado](presentaciones/errores.pdf)
 
 <img src="ia.png" width="200" >
-
