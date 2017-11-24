@@ -54,5 +54,6 @@
 3. [¿Es posible que un programa aprenda?](presentaciones/aprendizaje_mustafa.pdf)
 4. [Errores para aprendizaje supervisado](presentaciones/errores.pdf)
 5. [Máquinas de vectores de soporte](presentaciones/svm_presentacion.pdf)
+6. [Presentación sobre las K-medias](presentaciones/kmedias.pdf)
 
 <img src="ia.png" width="200" >
