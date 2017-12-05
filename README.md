@@ -71,4 +71,9 @@
 
 6. [Presentación sobre las K-medias](presentaciones/kmedias.pdf)
 
+
+## Exámenes de ejemplo para estudiar
+
+1. [Examen final de ejemplo para el semestre 2017b](examenes_ejemplo/final_ejemplo_2017b.pdf)
+
 <img src="ia.png" width="200" >
