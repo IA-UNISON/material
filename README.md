@@ -41,15 +41,17 @@
 
 3. [Unas notas (libro) excelentes en computación evolutiva](http://delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf)
 
-4. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
+4. Un ejemplo de programa sencillo de algoritmo genético en *python*, [El algoritmo genético](codigo/ga/genetico.py) y [la prueba con el problema de las *n-reinas*](codigo/ga/genetico_reinas.py).
 
-5. [El algoritmo AC-3 en Wikipedia (muy claro, muy bien)](https://en.wikipedia.org/wiki/AC-3_algorithm)
+5. [El artículo original con el algoritmo AC-3](http://cse.unl.edu/~choueiry/Documents/Mackworth-AIJ77.pdf)
+
+6. [El algoritmo AC-3 en Wikipedia (muy claro, sin errores)](https://en.wikipedia.org/wiki/AC-3_algorithm)
 
 ## Búsquedas en entornos discretos, dinámicos y determinísticos (o simplemente búsquedas)
 
 1. [Presentación de Gutiérrez Naranjo (U. de Sevilla) sobre modelos para búsquedas](presentaciones/modelos_busquedas.pdf)
 
-2. [Presentacion a base de recortes de otras presentaciones sobre búsquedas](presentaciones/busquedas.pdf)
+2. [Presentacion a base de recortes de otras presentaciones sobre búsquedas para usar en clase](presentaciones/busquedas.pdf)
 
 ## Representación del conocimiento
 
@@ -59,7 +61,7 @@
 
 ## Aprendizaje máquina
 
-1. [Presentacion inicial de aprendizaje máquina](presentaciones/machine_learning.pdf)
+1. [Presentación inicial de aprendizaje máquina](presentaciones/machine_learning.pdf)
 
 2. [Introducción a ML de Y. S. Abu-Mustafa (CALTECH)](presentaciones/ml_mustafa.pdf)
 
