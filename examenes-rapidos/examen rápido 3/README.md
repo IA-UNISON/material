@@ -1,4 +1,3 @@
-Un problema de representación para resolver como un problema de optimización
-utilizando piezas de tren. Es un problema propuesto e el AIMA.
-
-Entregado a mano y algunos en papel.
+Proponer una técnica de optimización metaheurística no estandar basada en
+cualquier inspiración, mientras más cotorra mejor, y discutir porque sería una
+buena representación, o no.
