@@ -76,6 +76,12 @@
 
 ## Exámenes de ejemplo para estudiar
 
-1. [Examen final de ejemplo para el semestre 2017b](examenes_ejemplo/final_ejemplo_2017b.pdf)
+### Exmenes de medio semestre
+1. [Examen intermedio semestre 2017b-2](examenes_ejemplo/intermedio_2017b.pdf)
+
+### Exámenes finales
+
+1. [Examen final semestre 2017b-2](examenes_ejemplo/final_2017b.pdf)
+2. [Examen final de ejemplo para practicar](examenes_ejemplo/final_ejemplo_2017b.pdf)
 
 <img src="ia.png" width="200" >
