@@ -84,4 +84,19 @@
 1. [Examen final semestre 2017b-2](examenes_ejemplo/final_2017b.pdf)
 2. [Examen final de ejemplo para practicar](examenes_ejemplo/final_ejemplo_2017b.pdf)
 
+## Actividades de evaluación y autoevaluación continua (exámenes rápidos)
+1. [Practicando con python](examenes-rapidos/examen%20rápido%201/examen-rapido-01.pdf)
+2. Dinámica grupal para manear conceptos de agente inteligente
+3. Proponer una técnica de optimización metaheurística no estandar
+   basada en cualquier inspiración, mientras más simpática mejor, y
+   discutir porque sería una buena representación, o no. En
+   particular, evidenciar cuales serían los requerimientos para
+   asegurar que el método converge asimptótocamente a un mínimo
+   global.
+4. [Probar con el algoritmo genético para el problema de las N-reinas](examenes-rapidos/examen%20rápido%204/README.md)
+5. El problema de elaborar crucigramas y como representarlos, como un problema de CSP.
+6. [Búsqedas y heurísticas](examenes-rapidos/examen%20rápido%206/examen_rapido_06.pdf)
+7. [El algoritmo de minimax y poda $\alpha$--$\beta$](examenes-rapidos/examen%20rápido%207/examen_rapido_07.pdf)
+8. [Inferencia exacta en redes bayesianas](examenes-rapidos/examen%20rápido%208/examen_rapido_08_2018a.pdf)
+
 <img src="ia.png" width="200" >
