@@ -98,5 +98,6 @@
 6. [Búsquedas y heurísticas](examenes-rapidos/examen%20rápido%206/examen_rapido_06.pdf)
 7. [El algoritmo de minimax y poda alfa-beta](examenes-rapidos/examen%20rápido%207/examen_rapido_07.pdf)
 8. [Inferencia exacta en redes bayesianas](examenes-rapidos/examen%20rápido%208/examen_rapido_08_2018a.pdf)
+9. [Inferencia aproximada y reduccion de redes bayesianas](examenes-rapidos/examen%20rápido%209/examen_rapido_9-2018a.pdf)
 
 <img src="ia.png" width="200" >
