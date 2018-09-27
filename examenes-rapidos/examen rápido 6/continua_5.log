@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  26 SEP 2018 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 SEP 2018 07:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**\input examen_rapido_06.tex
-(./examen_rapido_06.tex
+**\input continua_5.tex
+(./continua_5.tex
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
@@ -795,11 +795,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 LaTeX Warning: Unused global option(s):
     [letter].
 
-(./examen_rapido_06.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-)
-\openout1 = `examen_rapido_06.aux'.
+No file continua_5.aux.
+\openout1 = `continua_5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -815,7 +812,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 21.
 LaTeX Font Info:    Try loading font information for FML+futm on input line 21.
-
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
@@ -987,24 +983,24 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./examen_rapido_06.aux
+(./continua_5.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 5030 strings out of 493014
- 65205 string characters out of 6133351
+ 5028 strings out of 493014
+ 65121 string characters out of 6133351
  135451 words of memory out of 5000000
  8445 multiletter control sequences out of 15000+600000
  78403 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,7n,30p,359b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,7n,30p,353b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/
 texlive/2016/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on examen_rapido_06.pdf (2 pages, 54200 bytes).
+Output written on continua_5.pdf (2 pages, 54200 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
